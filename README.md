@@ -2,10 +2,7 @@
 <h3>Well, hello visitor 👋, I'm Mayur Kasliwal<h3>
 <br>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Developer;
-  3%2B%20years%20of%20coding%20experience;
-  1%2B%20years%20of%20working%20experience&font=Fira%20Code
-  &center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Developer;3%2B%20years%20of%20coding%20experience;1%2B%20years%20of%20working%20experience&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 </div>
 
