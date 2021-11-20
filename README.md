@@ -6,8 +6,6 @@
 </p>
 </div>
 
-<br>
-<br>
   
 ## 🤠 About me
 
@@ -16,7 +14,6 @@
 - 🔦 &nbsp; Looking to collaborate on OSS
 - ⚡ &nbsp; Fun fact: Buy me ☕ and I'm all yours; ❤️ Singing and playing guitar
 
-<br>
 <br>
   
 ## 🔨 Languages and Tools
@@ -36,10 +33,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40px"/>
   
-<br>
-<br>
-<br>
-  
+<br>  
 
 ## Contributions ?
   
