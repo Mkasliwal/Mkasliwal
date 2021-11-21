@@ -17,21 +17,26 @@
 <br>
   
 ## 🔨 Languages and Tools
-
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img src="https://img.icons8.com/fluency/55/000000/flask.png"/>
-<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40px"/>
+<div align="left">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+&nbsp; <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+&nbsp; <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+&nbsp; <img src="https://img.icons8.com/fluency/60/000000/flask.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+&nbsp; <img height="40" src="https://github.com/fastify/graphics/blob/master/fastify-white-landscape.svg"/>
+&nbsp; <img height="40" src="https://jestjs.io/img/jest.png"/>
+&nbsp; <img height="40" src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+&nbsp; <img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+&nbsp; <img height="40" src="https://www.heidisql.com/images/heidisql_logo.png"/>
+&nbsp; <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+&nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/>
+&nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40px"/>
+</dev>
   
 <br>  
 
