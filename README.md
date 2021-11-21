@@ -12,6 +12,7 @@
 - 🔭 &nbsp; Currently working on NodeJs projects
 - 🌱 &nbsp; Learning everything
 - 🔦 &nbsp; Looking to collaborate on OSS
+- 📚 &nbsp; Self Help, Business/Finance, Fictional, Non-Fictional, Sci-fi
 - ⚡ &nbsp; Fun fact: Buy me ☕ and I'm all yours; ❤️ Singing and playing guitar
 
 <br>
@@ -40,6 +41,6 @@
   
 <br>  
 
-## Contributions ?
+## Contributions
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkasliwal&theme=react-dark&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
