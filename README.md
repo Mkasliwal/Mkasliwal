@@ -16,7 +16,7 @@
 
 <br>
   
-## 🔨 Languages and Tools
+## 🔨 Languages, Tools and Technologies
 <div align="left">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 &nbsp; <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
