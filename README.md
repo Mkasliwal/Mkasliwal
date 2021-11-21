@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Learning everything
 - 🔦 &nbsp; Looking to collaborate on OSS
 - 📚 &nbsp; Self Help, Business/Finance, Fictional, Non-Fictional, Sci-fi
-- ⚡ &nbsp; Fun fact: Buy me ☕ and I'm all yours; ❤️ Singing and playing guitar
+- ⚡ &nbsp; Fun fact: Buy me `☕` and I'm all yours; `❤️` Singing and playing guitar
 
 <br>
   
