@@ -10,7 +10,7 @@
 ## 🤠 About me
 
 - 🔭 &nbsp; Currently working on NodeJs projects
-- 🌱 &nbsp; Learning everything
+- 🌱 &nbsp; myelinating with web 3.0
 - 🔦 &nbsp; Looking to collaborate on OSS
 - 📚 &nbsp; Self Help, Business/Finance, Fictional, Non-Fictional, Sci-fi
 - ⚡ &nbsp; Fun fact: Buy me `☕` and I'm all yours; `❤️` Singing and playing guitar
